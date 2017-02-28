@@ -1,0 +1,71 @@
+C:\Users\jv0116\Desktop\Windows\PCAN-Light API\Samples\C#\bin\Debug\ICDILight.exe
+C:\Users\jv0116\Desktop\Windows\PCAN-Light API\Samples\C#\bin\Debug\ICDILight.pdb
+C:\Users\jv0116\Desktop\Windows\PCAN-Light API\Samples\C#\obj\Debug\ICLRead.Form1.resources
+C:\Users\jv0116\Desktop\Windows\PCAN-Light API\Samples\C#\obj\Debug\ICLRead.Properties.Resources.resources
+C:\Users\jv0116\Desktop\Windows\PCAN-Light API\Samples\C#\obj\Debug\ICDILight.csproj.GenerateResource.Cache
+C:\Users\jv0116\Desktop\Windows\PCAN-Light API\Samples\C#\obj\Debug\ICDILight.exe
+C:\Users\jv0116\Desktop\Windows\PCAN-Light API\Samples\C#\obj\Debug\ICDILight.pdb
+C:\Users\jv0116\Desktop\Windows\PCAN-Light API\Samples\C#\obj\Debug\ICDILight.csprojResolveAssemblyReference.cache
+C:\jv0116_Workspace\gemini\Prototype\V_Console\C#\bin\Debug\ICDILight.exe
+C:\jv0116_Workspace\gemini\Prototype\V_Console\C#\bin\Debug\ICDILight.pdb
+C:\jv0116_Workspace\gemini\Prototype\V_Console\C#\obj\Debug\ICDILight.csprojResolveAssemblyReference.cache
+C:\jv0116_Workspace\gemini\Prototype\V_Console\C#\obj\Debug\ICLRead.Form1.resources
+C:\jv0116_Workspace\gemini\Prototype\V_Console\C#\obj\Debug\ICLRead.Properties.Resources.resources
+C:\jv0116_Workspace\gemini\Prototype\V_Console\C#\obj\Debug\ICDILight.csproj.GenerateResource.Cache
+C:\jv0116_Workspace\gemini\Prototype\V_Console\C#\obj\Debug\ICDILight.exe
+C:\jv0116_Workspace\gemini\Prototype\V_Console\C#\obj\Debug\ICDILight.pdb
+C:\jv0116_Workspace\gemini\Prototype\V_Console\C#\bin\Debug\ICDILight.exe.config
+C:\jv0116_Workspace\gemini\Prototype\V_Console\64\bin\Debug\ICDILight.exe.config
+C:\jv0116_Workspace\gemini\Prototype\V_Console\64\obj\Debug\ICDILight.exe
+C:\jv0116_Workspace\gemini\Prototype\V_Console\64\obj\Debug\ICDILight.pdb
+C:\jv0116_Workspace\gemini\Prototype\V_Console\64\bin\Debug\ICDILight.exe
+C:\jv0116_Workspace\gemini\Prototype\V_Console\64\bin\Debug\ICDILight.pdb
+C:\jv0116_Workspace\gemini\Prototype\V_Console\64\obj\Debug\ICDILight.csprojResolveAssemblyReference.cache
+C:\jv0116_Workspace\gemini\Prototype\V_Console\64\obj\Debug\ICLRead.Properties.Resources.resources
+C:\jv0116_Workspace\gemini\Prototype\V_Console\64\obj\Debug\ICDILight.csproj.GenerateResource.Cache
+C:\jv0116_Workspace\gemini\Prototype\V_Console\64\obj\Debug\ICLRead.ConsoleForm.resources
+C:\jv0116_Workspace\gemini\Prototype\V_Console\64\obj\Debug\ICLRead.MMICommandForm.resources
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\bin\Debug\ICDILight.exe.config
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\obj\Debug\ICDILight.exe
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\obj\Debug\ICDILight.pdb
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\bin\Debug\ICDILight.exe
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\bin\Debug\ICDILight.pdb
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\obj\Debug\ICDILight.csprojResolveAssemblyReference.cache
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\obj\Debug\ICLRead.ConsoleForm.resources
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\obj\Debug\ICLRead.MMICommandForm.resources
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\obj\Debug\ICLRead.Properties.Resources.resources
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\obj\Debug\ICDILight.csproj.GenerateResource.Cache
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\obj\Debug\ICLRead.GBIControls.resources
+C:\Users\jv0116\Desktop\64\bin\Debug\ICDILight.exe.config
+C:\Users\jv0116\Desktop\64\obj\Debug\ICDILight.exe
+C:\Users\jv0116\Desktop\64\obj\Debug\ICDILight.pdb
+C:\Users\jv0116\Desktop\64\bin\Debug\ICDILight.exe
+C:\Users\jv0116\Desktop\64\bin\Debug\ICDILight.pdb
+C:\Users\jv0116\Desktop\64\obj\Debug\ICDILight.csprojResolveAssemblyReference.cache
+C:\Users\jv0116\Desktop\64\obj\Debug\ICLRead.ConsoleForm.resources
+C:\Users\jv0116\Desktop\64\obj\Debug\ICLRead.GBIControls.resources
+C:\Users\jv0116\Desktop\64\obj\Debug\ICLRead.MMICommandForm.resources
+C:\Users\jv0116\Desktop\64\obj\Debug\ICLRead.Properties.Resources.resources
+C:\Users\jv0116\Desktop\64\obj\Debug\ICDILight.csproj.GenerateResource.Cache
+E:\64\bin\Debug\ICDILight.exe.config
+E:\64\obj\Debug\ICDILight.exe
+E:\64\obj\Debug\ICDILight.pdb
+E:\64\bin\Debug\ICDILight.exe
+E:\64\bin\Debug\ICDILight.pdb
+E:\64\obj\Debug\ICDILight.csprojResolveAssemblyReference.cache
+E:\64\obj\Debug\ICLRead.ConsoleForm.resources
+E:\64\obj\Debug\ICLRead.GBIControls.resources
+E:\64\obj\Debug\ICLRead.MMICommandForm.resources
+E:\64\obj\Debug\ICLRead.Properties.Resources.resources
+E:\64\obj\Debug\ICDILight.csproj.GenerateResource.Cache
+C:\Users\jv0116\Perforce\jv0116_USDAN6RCVX52LP_3001\gemini\Prototype\V_Console\64\obj\Debug\ICLRead.BootLoader.resources
+C:\Users\James\Desktop\V_Console\64\bin\Debug\ICDILight.exe.config
+C:\Users\James\Desktop\V_Console\64\obj\Debug\ICDILight.exe
+C:\Users\James\Desktop\V_Console\64\obj\Debug\ICDILight.pdb
+C:\Users\James\Desktop\V_Console\64\obj\Debug\ICDILight.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\V_Console\64\obj\Debug\ICLRead.ConsoleForm.resources
+C:\Users\James\Desktop\V_Console\64\obj\Debug\ICLRead.BootLoader.resources
+C:\Users\James\Desktop\V_Console\64\obj\Debug\ICLRead.GBIControls.resources
+C:\Users\James\Desktop\V_Console\64\obj\Debug\ICLRead.MMICommandForm.resources
+C:\Users\James\Desktop\V_Console\64\obj\Debug\ICLRead.Properties.Resources.resources
+C:\Users\James\Desktop\V_Console\64\obj\Debug\ICDILight.csproj.GenerateResource.Cache
